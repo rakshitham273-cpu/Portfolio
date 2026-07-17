@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rakshitha/static/css/main.482885df.css",
+    "main.js": "/rakshitha/static/js/main.4075b350.js",
+    "static/js/453.a7d99afe.chunk.js": "/rakshitha/static/js/453.a7d99afe.chunk.js",
+    "index.html": "/rakshitha/index.html",
+    "main.482885df.css.map": "/rakshitha/static/css/main.482885df.css.map",
+    "main.4075b350.js.map": "/rakshitha/static/js/main.4075b350.js.map",
+    "453.a7d99afe.chunk.js.map": "/rakshitha/static/js/453.a7d99afe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.482885df.css",
+    "static/js/main.4075b350.js"
+  ]
+}
